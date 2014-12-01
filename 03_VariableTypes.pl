@@ -8,5 +8,6 @@ $name = "Sanket";
 %nameAge = ('Sanket', 23, 'Tejas', 22, 'Pankaj', 24, 'Soumitra', 24);
 
 print "\$name = $name\n";
-print "\@names[2] = @names\n";
-print "\%nameAge = $nameAge{'Pankaj'}\n";
+print "\@names = @names\n";
+print "\$names[1] = $names[1]\n";
+print "\$nameAge{'Pankaj'} = $nameAge{'Pankaj'}\n";
